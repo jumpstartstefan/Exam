@@ -1,0 +1,5 @@
+c:\Users\stefan\documents\visual studio 2012\Projects\Exam\Task1\bin\Debug\Task1.exe
+c:\Users\stefan\documents\visual studio 2012\Projects\Exam\Task1\bin\Debug\Task1.pdb
+c:\Users\stefan\documents\visual studio 2012\Projects\Exam\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+c:\Users\stefan\documents\visual studio 2012\Projects\Exam\Task1\obj\Debug\Task1.exe
+c:\Users\stefan\documents\visual studio 2012\Projects\Exam\Task1\obj\Debug\Task1.pdb
