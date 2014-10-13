@@ -5,7 +5,7 @@ namespace Task1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.Write("N=");
             int number = Int32.Parse(Console.ReadLine());
